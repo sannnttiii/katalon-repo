@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BU_002 TC open login page use toggle login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>637335a2-2537-42e3-abd4-0465832c5260</testCaseGuid>
+</TestCaseEntity>

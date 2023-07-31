@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BU_012 TC book appointment visit date after today, blank comment and uncheck readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9017f352-bfc1-4dee-b194-8b0c85acdf21</testCaseGuid>
+</TestCaseEntity>
